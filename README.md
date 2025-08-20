@@ -4,14 +4,6 @@
 
 Rotman Datathon 2025 - **Team Number: 190**
 
-Katarina Jocelyn Chandra
-
-Keisha Valenna Kwek
-
-Siya Gupta
-
-Yana Jakhwal
-
 ## Introduction
 
 **1.1 Overview**
