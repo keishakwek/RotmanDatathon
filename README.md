@@ -1,6 +1,6 @@
-**Cost of Living, Economic Development,**
+# Cost of Living, Economic Development, and Supply Chain
 
-**& Supply Chain**
+****
 
 Rotman Datathon 2025 - **Team Number: 190**
 
@@ -12,7 +12,7 @@ Siya Gupta
 
 Yana Jakhwal
 
-1.  **Introduction**
+## Introduction
 
 **1.1 Overview**
 
@@ -55,7 +55,7 @@ indicators will be provided.
 
 <!-- -->
 
-2.  **Data Plan-- Methodology**
+## Data Plan: Methodology
 
 **2.1 Variables and Datasets Used**
 
@@ -142,7 +142,7 @@ We will use time-series forecasting to show future predictions of the
 logistics performance index under different conditions of the economy
 through the factors we have previously determined.
 
-## **3. Data Analysis**
+## Data Analysis
 
 **3.1 Exploratory Data Analysis**
 
@@ -321,7 +321,7 @@ Note: Scikit-learn's elastic net regression uses one regularization
 strength coefficient alongside a proportional l1 ratio instead of two
 coefficients for each regularization method.
 
-**4. Implications and Discussion**
+## Implications and Discussion
 
 The Human Capital Index (HCI), which measures how good countries are at
 mobilising their human capital through health and education, is the
@@ -348,7 +348,7 @@ countries with high poverty, hence high socioeconomic disparity,
 mortality rates and lower electronic infrastructure development have
 higher supply chain costs as indicated by lower LPI values.
 
-## **5. Recommendations** 
+## Recommendations
 
 **5.1 For Policymakers**
 
@@ -426,7 +426,7 @@ take on a number of proactive strategies, such as:
     (CSR) initiatives contribute to long-term regional stability, which
     benefits both the local community and the supply chain
 
-**Conclusion\**
+## Conclusion
 In this report, we explored the intricate relationships between cost of
 living, economic development, and supply chain stability, leveraging
 diverse datasets and advanced modeling techniques. Through our analysis,
@@ -456,7 +456,7 @@ As global challenges continue to evolve, this report highlights the need
 for proactive and data-driven approaches to safeguard supply chain
 resilience in an interconnected world.
 
-**7. Reference**
+## Reference
 
 > Behzadi, G., O'Sullivan, M. J., & Olsen, T. L. (2020). On metrics for
 > supply chain resilience. *European Journal of Operational Research*,
